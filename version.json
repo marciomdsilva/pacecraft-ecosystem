@@ -1,0 +1,46 @@
+{
+  "plugin": {
+    "version": "1.0.0",
+    "assemblyVersion": "1.0.0.0",
+    "downloadUrl": "https://github.com/marciomdsilva/pacecraft-ecosystem/releases/download/v1.0.0/PaceCraft.dll",
+    "sha256": "6c00b48f3c6c79fc5f4a617dc7f651073120a16b0d0a1d378b696983c2730413"
+  },
+  "dashboards": {
+    "teste": {
+      "id": "teste",
+      "title": "teste",
+      "name": "teste",
+      "description": "No description available",
+      "author": "Unknown",
+      "version": "1.26",
+      "width": 1280,
+      "height": 720,
+      "category": "General",
+      "downloadUrl": "https://github.com/marciomdsilva/pacecraft-ecosystem/releases/download/v1.0.0/teste.simhubdash",
+      "sha256": "d31d1a61b1bb5d8c3a8b89159acc527eacbdae784eba996518166c380775f94a",
+      "fileSize": 2003,
+      "lastUpdated": "2026-01-18T22:31:28Z"
+    },
+    "teste2": {
+      "id": "teste2",
+      "title": "Dash de teste",
+      "name": "Dash de teste",
+      "description": "o melhor dash do mundo",
+      "author": "Márcio Silva",
+      "version": "1.1.1",
+      "width": 1280,
+      "height": 720,
+      "category": "General",
+      "downloadUrl": "https://github.com/marciomdsilva/pacecraft-ecosystem/releases/download/v1.0.0/teste2.simhubdash",
+      "sha256": "2fe6c903d1297a5bbf85e7543029580c47fcff5ae7fa5615d5a7f14f5d1ae72d",
+      "fileSize": 2097,
+      "lastUpdated": "2026-01-18T22:31:29Z"
+    }
+  },
+  "metadata": {
+    "generatedAt": "2026-01-18T22:31:30Z",
+    "gitTag": "v1.0.0",
+    "gitCommit": "4d5cd05dac9bcba41ef136c3beb0b9b42387ae90",
+    "releaseType": "plugin"
+  }
+}
